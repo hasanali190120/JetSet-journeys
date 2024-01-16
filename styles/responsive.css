@@ -1,44 +1,49 @@
 @media screen and (max-width: 576px) {
-    .input-section{
+    .input-section {
         flex-direction: column;
     }
-    .explore-travle{
-   justify-content: center;
-    align-items: center;
-    height: 50%; 
-    width: 100%;
+
+    .explore-travle {
+        justify-content: center;
+        align-items: center;
+        height: 50%;
+        width: 100%;
     }
-    .select-tag{
+
+    .select-tag {
         width: 180px;
         height: 65px;
     }
-        .feature {
-            flex-direction: column;
-            display: flex;
-            width: 100%;
-            height: 50%;
-            justify-content: center;
-            align-items: center;
-        }
-        .features-img{
-            width: 100%;
-            height: 40%;
-        }
-        .row {
-     
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
-            width: 100%;
-        
-    
 
-         
+    .feature {
+        flex-direction: column;
+        display: flex;
+        width: 100%;
+        height: 50%;
+        justify-content: center;
+        align-items: center;
     }
 
-    .text{
+    .features-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .row {
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        width: 100%;
+
+
+
+
+    }
+
+    .text {
         position: absolute;
         font-size: 30px;
         color: #FFF;
@@ -46,7 +51,7 @@
         top: 70px;
         left: 130px;
         bottom: 200px;
-     }
+    }
 
 
 
