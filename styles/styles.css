@@ -269,24 +269,17 @@ header {
 }
 
 .media-section1 {
-    /* padding: 30px 30px; */
+    padding: 30px 30px;
     border-radius: 16px;
     border: 2px solid #FF5400;
-      width: 474px; 
-    height: 422px; 
+    width: 474px;
+    height: 352px; 
 }
 
  .media-section2 { 
-    /* padding: 30px 30px; */
-     width: 672px; 
+    padding: 30px 30px;
+    width: 672px;
     height: 422px;
-
-}
-.features-content-title2{
-    padding: 5px;
-}
-.choose-description-head{
-padding: 5px;
 }
 
 .input-part {
